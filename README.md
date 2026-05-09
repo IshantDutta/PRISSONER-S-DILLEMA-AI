@@ -51,27 +51,8 @@ The simulator includes:
 - Match history export
 - Graph visualization
 
----
 
-# ⚙️ Installation
 
-Clone the repository:
-
-bash id="ajh7ml" git clone https://github.com/IshantDutta/PRISSONER-S-DILLEMA-AI.git 
-
-Move into the project folder:
-
-bash id="s0dq1m" cd PRISSONER-S-DILLEMA-AI 
-
-Install required libraries:
-
-bash id="z9hcvj" pip install -r requirements.txt 
-
-Run the project:
-
-bash id="m3h5re" python app.py 
-
----
 
 # 📂 Project Structure
 
