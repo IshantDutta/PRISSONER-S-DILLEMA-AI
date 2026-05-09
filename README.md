@@ -53,11 +53,6 @@ The simulator includes:
 
 
 
-
-# 📂 Project Structure
-
-text id="8v0m0x" PRISSONER-S-DILLEMA-AI/ │ ├── app.py ├── requirements.txt ├── README.md └── assets/ 
-
 ---
 
 # 📊 Game Theory Concept
